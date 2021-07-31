@@ -31,4 +31,9 @@
 </a>
 </p>
 
+### ⚙️ GitHub Progress
+
 ![Snake animation](https://github.com/JonathanReisCom/JonathanReisCom/blob/output/github-contribution-grid-snake.svg)
+
+### 👀 Visitor's count 
+<p align="center"><img src="https://profile-counter.glitch.me/{JonathanReisCom}/count.svg" alt="JonathanReisCom :: Visitor's Count" /></p>
