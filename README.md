@@ -1,4 +1,6 @@
-### Hi there 👋
+# Jonathan Reis 👋
+
+<!-- <img align="right" src="https://komarev.com/ghpvc/?username=JonathanReisCom" alt="JonathanReisCom" /> -->
 
 ### 🛠 Tech Stack
 
@@ -15,14 +17,23 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"></code>
 <code><img height="40" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/color/48/000000/nodejs.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
-<code><img height="40" width="40" src="https://github.com/JonathanReisCom/JonathanReisCom/blob/main/assets/icon-figma.png"></code>
-<code><img height="35" width="35" src="https://github.com/JonathanReisCom/JonathanReisCom/blob/main/assets/icon-vscode.png"></code>
+<code><img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"></code>
+<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></code>
+<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
+<code><img height="40" width="40" src="https://mk0futurumreseabr7pm.kinstacdn.com/wp-content/uploads/2020/01/aws-logo.png"></code>
 
-### ⚙️ GitHub Analytics
+### 📊 GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/JonathanReisCom">
@@ -31,9 +42,15 @@
 </a>
 </p>
 
-### ⚙️ GitHub Progress
+### 📈 GitHub Progress
 
 ![Snake animation](https://github.com/JonathanReisCom/JonathanReisCom/blob/output/github-contribution-grid-snake.svg)
 
-### 👀 Visitor's count 
+### 🖖 Connect with me:
+
+<code><a href="https://www.linkedin.com/in/jonathan-reis-com/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40" width="40" /></a></code>
+<code><a href="https://www.instagram.com/jonathanreis/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40" width="40" /></code>
+
+### 👀 Visitor's count
+
 <p align="center"><img src="https://profile-counter.glitch.me/{JonathanReisCom}/count.svg" alt="JonathanReisCom :: Visitor's Count" /></p>
