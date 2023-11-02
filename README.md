@@ -36,10 +36,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-<picture>
-  <img height="240em" src="https://github-readme-stats-xi-orpin.vercel.app/api?username=JonathanReisCom&show=reviews,prs_merged,prs_merged_percentage&count_private=true&include_all_commits=true&show_icons=true&hide=stars&theme=algolia&rank_icon=github" />
-  <img height="240em" src="https://github-readme-stats-xi-orpin.vercel.app/api/top-langs/?username=JonathanReisCom&layout=compact&langs_count=8&theme=algolia&count_private=true&include_all_commits=true&exclude_repo=portalpicante-website,gparena-website,escapingwiththediamond-cocos2dx"/>
-</picture>
+  <img height="220em" src="https://github-readme-stats-xi-orpin.vercel.app/api?username=JonathanReisCom&show=reviews,prs_merged,prs_merged_percentage&count_private=true&include_all_commits=true&show_icons=true&hide=stars&theme=algolia&rank_icon=github" />
+  <img height="220em" src="https://github-readme-stats-xi-orpin.vercel.app/api/top-langs/?username=JonathanReisCom&layout=compact&langs_count=8&theme=algolia&count_private=true&include_all_commits=true&exclude_repo=portalpicante-website,gparena-website,escapingwiththediamond-cocos2dx"/>
 </p>
 
 ### 📈 GitHub Progress
