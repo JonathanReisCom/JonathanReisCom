@@ -1,60 +1,129 @@
-# Jonathan Reis 👋
+# Hi, I'm Jonathan Reis
 
-<!-- <img align="right" src="https://komarev.com/ghpvc/?username=JonathanReisCom" alt="JonathanReisCom" /> -->
+I am a Senior Tech Lead and software developer with a strong background in SRE, DevOps, and cloud engineering, based in Rio de Janeiro, Brazil.
 
-### 🛠 Tech Stack
+I currently work as Tech Lead for Sportsbook Experience at Flutter Brazil, helping teams build reliable products around sports betting, payments, authentication, reporting, BI data flows, scalability, and customer experience.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"></code>
-<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/color/48/000000/nodejs.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
-<code><img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"></code>
-<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></code>
-<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
-<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
-
-### 📊 GitHub Analytics
+My main focus today is software development and technical leadership. On the programming side, I am focused on Go, while still using my DevOps and cloud background to help teams ship reliable systems.
 
 <p align="center">
-  <img height="220em" src="https://github-readme-stats-xi-orpin.vercel.app/api?username=JonathanReisCom&show=reviews,prs_merged,prs_merged_percentage&count_private=true&include_all_commits=true&show_icons=true&hide=stars&theme=algolia&rank_icon=github" />
-  <img height="220em" src="https://github-readme-stats-xi-orpin.vercel.app/api/top-langs/?username=JonathanReisCom&layout=compact&langs_count=8&theme=algolia&count_private=true&include_all_commits=true&exclude_repo=portalpicante-website,gparena-website,escapingwiththediamond-cocos2dx"/>
+  <a href="https://www.linkedin.com/in/jonathan-reis-com/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jonathan%20Reis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/jonathanreis/">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@jonathanreis-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/JonathanReisCom">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-JonathanReisCom-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-### 📈 GitHub Progress
+## What I Care About
+
+- Leading technical decisions with clarity, context, and ownership.
+- Building software that solves real problems and is practical to evolve.
+- Designing APIs, services, and product flows with clear contracts.
+- Mentoring engineers and helping teams make better technical decisions.
+- Using cloud, observability, and delivery automation to support reliable products.
+- Creating interfaces that are fast, accessible, and pleasant to use.
+- Keeping codebases organized so teams can move with confidence.
+- Learning continuously and sharing what I discover with the community.
+
+## Tech Stack
+
+### Current Focus: Development, Tech Lead, and Go
+
+![Go](https://img.shields.io/badge/Go-05122A?style=flat&logo=go)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=nodedotjs)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
+![Terraform](https://img.shields.io/badge/Terraform-05122A?style=flat&logo=terraform)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazonaws)
+
+### Backend, APIs, and Data
+
+![Go](https://img.shields.io/badge/Go-05122A?style=flat&logo=go)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=nodedotjs)&nbsp;
+![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=php)&nbsp;
+![gRPC](https://img.shields.io/badge/gRPC-05122A?style=flat&logo=grpc)&nbsp;
+![Protobuf](https://img.shields.io/badge/Protobuf-05122A?style=flat&logo=google)&nbsp;
+![Keycloak](https://img.shields.io/badge/Keycloak-05122A?style=flat&logo=keycloak)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql)
+
+### Cloud, Reliability, and DevOps
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
+![Terraform](https://img.shields.io/badge/Terraform-05122A?style=flat&logo=terraform)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazonaws)&nbsp;
+![Grafana](https://img.shields.io/badge/Grafana-05122A?style=flat&logo=grafana)&nbsp;
+![Kafka](https://img.shields.io/badge/Kafka-05122A?style=flat&logo=apachekafka)
+
+### Frontend and Mobile
+
+![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react)&nbsp;
+![React Native](https://img.shields.io/badge/React%20Native-05122A?style=flat&logo=react)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-05122A?style=flat&logo=html5)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
+![Sass](https://img.shields.io/badge/Sass-05122A?style=flat&logo=sass)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-05122A?style=flat&logo=tailwindcss)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-05122A?style=flat&logo=firebase)
+
+### Delivery and Developer Tools
+
+![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-05122A?style=flat&logo=githubactions)&nbsp;
+![Bitbucket](https://img.shields.io/badge/Bitbucket-05122A?style=flat&logo=bitbucket)&nbsp;
+![Jira](https://img.shields.io/badge/Jira-05122A?style=flat&logo=jira)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman)&nbsp;
+![VS Code](https://img.shields.io/badge/VS%20Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC)
+
+### Additional Experience
+
+![C++](https://img.shields.io/badge/C++-05122A?style=flat&logo=cplusplus)&nbsp;
+![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk)&nbsp;
+![Swift](https://img.shields.io/badge/Swift-05122A?style=flat&logo=swift)&nbsp;
+![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-05122A?style=flat&logo=rubyonrails)&nbsp;
+![Unity](https://img.shields.io/badge/Unity-05122A?style=flat&logo=unity)
+
+## Current Focus
+
+- Tech Lead responsibilities: architecture decisions, team alignment, mentoring, delivery flow, and technical ownership.
+- Software development with Go as the main programming focus, especially for backend services, integrations, APIs, gRPC, and Protobuf.
+- Product and platform engineering: turning business problems into maintainable systems with good developer experience.
+- DevOps, cloud, CI/CD, observability, and reliability as supporting skills for shipping and operating better software.
+- Better documentation and examples so projects are easier to explore and reuse.
+
+## Experience Snapshot
+
+- 20+ years working with software development, infrastructure, networks, mobile apps, games, web products, and cloud platforms.
+- Current work at Flutter Brazil/NSX involves critical sportsbook systems, authentication, payments, reporting, BI data flows, scalability, and high availability.
+- Previous Tech Lead experience includes leading multiple development squads, mentoring engineers, creating POCs, and modernizing systems.
+- I have built and shipped personal mobile games and apps, including projects with millions of downloads on Google Play.
+
+## GitHub Activity
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JonathanReisCom/JonathanReisCom/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/JonathanReisCom/JonathanReisCom/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/JonathanReisCom/JonathanReisCom/blob/output/github-contribution-grid-snake.svg" />
-</picture>
+  <img height="180em" alt="Jonathan Reis GitHub stats" src="https://github-readme-stats-xi-orpin.vercel.app/api?username=JonathanReisCom&show=reviews,prs_merged,prs_merged_percentage&count_private=true&include_all_commits=true&show_icons=true&hide=stars&theme=algolia&rank_icon=github" />
+  <img height="180em" alt="Jonathan Reis most used languages" src="https://github-readme-stats-xi-orpin.vercel.app/api/top-langs/?username=JonathanReisCom&layout=compact&langs_count=8&theme=algolia&count_private=true&include_all_commits=true&exclude_repo=portalpicante-website,gparena-website,escapingwiththediamond-cocos2dx" />
 </p>
 
-### 🖖 Connect with me:
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JonathanReisCom/JonathanReisCom/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/JonathanReisCom/JonathanReisCom/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution graph animation" src="https://github.com/JonathanReisCom/JonathanReisCom/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
-<code><a href="https://www.linkedin.com/in/jonathan-reis-com/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40" width="40" /></a></code>
-<code><a href="https://www.instagram.com/jonathanreis/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40" width="40" /></code>
+## Let's Connect
 
-### 👀 Visitor's count
-
-<p align="center"><img src="https://profile-counter.glitch.me/{JonathanReisCom}/count.svg" alt="JonathanReisCom :: Visitor's Count" /></p>
+If you want to talk about software development, web products, APIs, or community projects, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/jonathan-reis-com/) or follow my work here on [GitHub](https://github.com/JonathanReisCom).
