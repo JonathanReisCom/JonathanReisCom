@@ -1,10 +1,10 @@
 # Hi, I'm Jonathan Reis
 
-I am a Senior Tech Lead and software developer with a strong background in SRE, DevOps, and cloud engineering, based in Rio de Janeiro, Brazil.
+I'm a Senior Software Engineer and Tech Lead based in Rio de Janeiro, Brazil, focused on backend systems, reliability, observability, cloud infrastructure, and technical leadership.
 
-I currently work as Tech Lead for Sportsbook Experience at Flutter Brazil, helping teams build reliable products around sports betting, payments, authentication, reporting, BI data flows, scalability, and customer experience.
+At Flutter Brazil, I work with critical sportsbook systems, helping teams evolve backend services, provider integrations, observability, resilience, and regulated production flows.
 
-My main focus today is software development and technical leadership. On the programming side, I am focused on Go, while still using my DevOps and cloud background to help teams ship reliable systems.
+Outside work, I build and publish personal apps through Sunstone Apps, where I work across product, mobile development, landing pages, analytics, SEO, release flow, and long-term maintenance.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jonathan-reis-com/">
@@ -16,7 +16,16 @@ My main focus today is software development and technical leadership. On the pro
   <a href="https://github.com/JonathanReisCom">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-JonathanReisCom-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://sunstoneapps.com/">
+    <img alt="Sunstone Apps" src="https://img.shields.io/badge/Sunstone%20Apps-Products-F59E0B?style=for-the-badge" />
+  </a>
 </p>
+
+## Personal Products
+
+I build and publish personal apps through [Sunstone Apps](https://sunstoneapps.com/), a small product studio focused on useful mobile apps, web landings, SEO, analytics, observability, and sustainable maintenance.
+
+Current work includes Daily Sudoku, Word Search, Water Sort, shared React Native packages, Astro landing pages, Cloudflare Pages deployment, CI, E2E tests, Firebase Analytics, Sentry, RevenueCat, and Google Play publishing.
 
 ## What I Care About
 
@@ -31,23 +40,25 @@ My main focus today is software development and technical leadership. On the pro
 
 ## Tech Stack
 
-### Current Focus: Development, Tech Lead, and Go
+### Current Focus
 
 ![Go](https://img.shields.io/badge/Go-05122A?style=flat&logo=go)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react)&nbsp;
+![React Native](https://img.shields.io/badge/React%20Native-05122A?style=flat&logo=react)&nbsp;
+![Expo](https://img.shields.io/badge/Expo-05122A?style=flat&logo=expo)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=nodedotjs)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
 ![Terraform](https://img.shields.io/badge/Terraform-05122A?style=flat&logo=terraform)&nbsp;
-![AWS](https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazonaws)
+![AWS](https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazonaws)&nbsp;
+![Grafana](https://img.shields.io/badge/Grafana-05122A?style=flat&logo=grafana)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-05122A?style=flat&logo=githubactions)
 
 ### Backend, APIs, and Data
 
 ![Go](https://img.shields.io/badge/Go-05122A?style=flat&logo=go)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=nodedotjs)&nbsp;
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=php)&nbsp;
 ![gRPC](https://img.shields.io/badge/gRPC-05122A?style=flat&logo=grpc)&nbsp;
 ![Protobuf](https://img.shields.io/badge/Protobuf-05122A?style=flat&logo=google)&nbsp;
 ![Keycloak](https://img.shields.io/badge/Keycloak-05122A?style=flat&logo=keycloak)&nbsp;
@@ -69,11 +80,11 @@ My main focus today is software development and technical leadership. On the pro
 ![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react)&nbsp;
 ![React Native](https://img.shields.io/badge/React%20Native-05122A?style=flat&logo=react)&nbsp;
+![Expo](https://img.shields.io/badge/Expo-05122A?style=flat&logo=expo)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-05122A?style=flat&logo=html5)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
 ![Sass](https://img.shields.io/badge/Sass-05122A?style=flat&logo=sass)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-05122A?style=flat&logo=tailwindcss)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase-05122A?style=flat&logo=firebase)
 
 ### Delivery and Developer Tools
@@ -98,6 +109,7 @@ My main focus today is software development and technical leadership. On the pro
 
 - Tech Lead responsibilities: architecture decisions, team alignment, mentoring, delivery flow, and technical ownership.
 - Software development with Go as the main programming focus, especially for backend services, integrations, APIs, gRPC, and Protobuf.
+- Personal product engineering through Sunstone Apps: React Native apps, Astro sites, SEO, analytics, observability, CI, E2E, and store publishing.
 - Product and platform engineering: turning business problems into maintainable systems with good developer experience.
 - DevOps, cloud, CI/CD, observability, and reliability as supporting skills for shipping and operating better software.
 - Better documentation and examples so projects are easier to explore and reuse.
@@ -107,7 +119,7 @@ My main focus today is software development and technical leadership. On the pro
 - 20+ years working with software development, infrastructure, networks, mobile apps, games, web products, and cloud platforms.
 - Current work at Flutter Brazil/NSX involves critical sportsbook systems, authentication, payments, reporting, BI data flows, scalability, and high availability.
 - Previous Tech Lead experience includes leading multiple development squads, mentoring engineers, creating POCs, and modernizing systems.
-- I have built and shipped personal mobile games and apps, including projects with millions of downloads on Google Play.
+- I build and ship personal mobile apps through [Sunstone Apps](https://sunstoneapps.com/), including Daily Sudoku and other product experiments.
 
 ## GitHub Activity
 
@@ -126,4 +138,4 @@ My main focus today is software development and technical leadership. On the pro
 
 ## Let's Connect
 
-If you want to talk about software development, web products, APIs, or community projects, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/jonathan-reis-com/) or follow my work here on [GitHub](https://github.com/JonathanReisCom).
+If you want to talk about software development, backend systems, reliability, product engineering, or personal apps, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/jonathan-reis-com/) or follow my work through [Sunstone Apps](https://sunstoneapps.com/) and [GitHub](https://github.com/JonathanReisCom).
