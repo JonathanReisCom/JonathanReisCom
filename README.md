@@ -8,7 +8,7 @@ Outside work, I build and operate personal mobile products through Sunstone Apps
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jonathan-reis-com/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jonathan%20Reis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/jonathanreis/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@jonathanreis-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -16,14 +16,14 @@ Outside work, I build and operate personal mobile products through Sunstone Apps
   <a href="https://github.com/JonathanReisCom">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-JonathanReisCom-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://sunstoneapps.com/">
-    <img alt="Sunstone Apps" src="https://img.shields.io/badge/Sunstone%20Apps-Products-F59E0B?style=for-the-badge" />
+  <a href="https://sunstoneapps.com/?utm_source=github&utm_medium=readme_badge&utm_campaign=personal_brand">
+    <img alt="Sunstone Apps" src="https://img.shields.io/badge/Sunstone%20Apps-Products-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
 ## Personal Products
 
-I build and operate personal mobile products through [Sunstone Apps](https://sunstoneapps.com/), a small product studio focused on useful apps, web landings, SEO, analytics, observability, monetization, and sustainable maintenance.
+I build and operate personal mobile products through [Sunstone Apps](https://sunstoneapps.com/?utm_source=github&utm_medium=readme_personal_products&utm_campaign=personal_brand), a small product studio focused on useful apps, web landings, SEO, analytics, observability, monetization, and sustainable maintenance.
 
 The stack includes React Native, Expo, Astro, Cloudflare Pages, GA4/Firebase Analytics, Sentry, RevenueCat, Google Play publishing, GitHub Actions, Playwright E2E, i18n, structured SEO metadata, sitemaps, and Open Graph assets.
 
@@ -119,7 +119,7 @@ The stack includes React Native, Expo, Astro, Cloudflare Pages, GA4/Firebase Ana
 - 20+ years working with software development, infrastructure, networks, mobile apps, games, web products, and cloud platforms.
 - Current work at Flutter Brazil/NSX involves critical sportsbook systems, authentication, payments, reporting, BI data flows, scalability, and high availability.
 - Previous Tech Lead experience includes leading multiple development squads, mentoring engineers, creating POCs, and modernizing systems.
-- I build and ship personal mobile products through [Sunstone Apps](https://sunstoneapps.com/), covering app development, landing pages, analytics, monetization, release flow, and long-term maintenance.
+- I build and ship personal mobile products through [Sunstone Apps](https://sunstoneapps.com/?utm_source=github&utm_medium=readme_experience&utm_campaign=personal_brand), covering app development, landing pages, analytics, monetization, release flow, and long-term maintenance.
 
 ## GitHub Activity
 
@@ -138,4 +138,4 @@ The stack includes React Native, Expo, Astro, Cloudflare Pages, GA4/Firebase Ana
 
 ## Let's Connect
 
-If you want to talk about software development, backend systems, reliability, product engineering, or personal apps, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/jonathan-reis-com/) or follow my work through [Sunstone Apps](https://sunstoneapps.com/) and [GitHub](https://github.com/JonathanReisCom).
+If you want to talk about software development, backend systems, reliability, product engineering, or personal apps, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/jonathan-reis-com/) or follow my work through [Sunstone Apps](https://sunstoneapps.com/?utm_source=github&utm_medium=readme_connect&utm_campaign=personal_brand) and [GitHub](https://github.com/JonathanReisCom).
