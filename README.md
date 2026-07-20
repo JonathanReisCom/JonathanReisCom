@@ -8,16 +8,16 @@ Outside work, I build and operate personal mobile products through Sunstone Apps
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jonathan-reis-com/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img width="220" height="28" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/jonathanreis/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@jonathanreis-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img width="220" height="28" alt="Instagram" src="https://img.shields.io/badge/Instagram-@jonathanreis-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://github.com/JonathanReisCom">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-JonathanReisCom-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img width="220" height="28" alt="GitHub" src="https://img.shields.io/badge/GitHub-JonathanReisCom-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://sunstoneapps.com/?utm_source=github&utm_medium=readme_badge&utm_campaign=personal_brand">
-    <img alt="Sunstone Apps" src="https://img.shields.io/badge/Sunstone%20Apps-Products-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img width="220" height="28" alt="Sunstone Apps" src="https://img.shields.io/badge/Sunstone%20Apps-Products-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
