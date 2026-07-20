@@ -4,7 +4,7 @@ I'm a Senior Software Engineer and Tech Lead based in Rio de Janeiro, Brazil, fo
 
 At Flutter Brazil, I work with critical sportsbook systems, helping teams evolve backend services, provider integrations, observability, resilience, and regulated production flows.
 
-Outside work, I build and publish personal apps through Sunstone Apps, where I work across product, mobile development, landing pages, analytics, SEO, release flow, and long-term maintenance.
+Outside work, I build and operate personal mobile products through Sunstone Apps, where I work across product, mobile development, landing pages, analytics, SEO, monetization, release flow, and long-term maintenance.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jonathan-reis-com/">
@@ -23,9 +23,9 @@ Outside work, I build and publish personal apps through Sunstone Apps, where I w
 
 ## Personal Products
 
-I build and publish personal apps through [Sunstone Apps](https://sunstoneapps.com/), a small product studio focused on useful mobile apps, web landings, SEO, analytics, observability, and sustainable maintenance.
+I build and operate personal mobile products through [Sunstone Apps](https://sunstoneapps.com/), a small product studio focused on useful apps, web landings, SEO, analytics, observability, monetization, and sustainable maintenance.
 
-Current work includes Daily Sudoku, Word Search, Water Sort, shared React Native packages, Astro landing pages, Cloudflare Pages deployment, CI, E2E tests, Firebase Analytics, Sentry, RevenueCat, and Google Play publishing.
+The stack includes React Native, Expo, Astro, Cloudflare Pages, GA4/Firebase Analytics, Sentry, RevenueCat, Google Play publishing, GitHub Actions, Playwright E2E, i18n, structured SEO metadata, sitemaps, and Open Graph assets.
 
 ## What I Care About
 
@@ -109,7 +109,7 @@ Current work includes Daily Sudoku, Word Search, Water Sort, shared React Native
 
 - Tech Lead responsibilities: architecture decisions, team alignment, mentoring, delivery flow, and technical ownership.
 - Software development with Go as the main programming focus, especially for backend services, integrations, APIs, gRPC, and Protobuf.
-- Personal product engineering through Sunstone Apps: React Native apps, Astro sites, SEO, analytics, observability, CI, E2E, and store publishing.
+- Personal product engineering through Sunstone Apps: React Native apps, Astro sites, Cloudflare Pages, SEO, analytics, observability, monetization, CI, E2E, and store publishing.
 - Product and platform engineering: turning business problems into maintainable systems with good developer experience.
 - DevOps, cloud, CI/CD, observability, and reliability as supporting skills for shipping and operating better software.
 - Better documentation and examples so projects are easier to explore and reuse.
@@ -119,7 +119,7 @@ Current work includes Daily Sudoku, Word Search, Water Sort, shared React Native
 - 20+ years working with software development, infrastructure, networks, mobile apps, games, web products, and cloud platforms.
 - Current work at Flutter Brazil/NSX involves critical sportsbook systems, authentication, payments, reporting, BI data flows, scalability, and high availability.
 - Previous Tech Lead experience includes leading multiple development squads, mentoring engineers, creating POCs, and modernizing systems.
-- I build and ship personal mobile apps through [Sunstone Apps](https://sunstoneapps.com/), including Daily Sudoku and other product experiments.
+- I build and ship personal mobile products through [Sunstone Apps](https://sunstoneapps.com/), covering app development, landing pages, analytics, monetization, release flow, and long-term maintenance.
 
 ## GitHub Activity
 
