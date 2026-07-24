@@ -27,6 +27,10 @@ I build and operate personal mobile products through [Sunstone Apps](https://sun
 
 The stack includes React Native, Expo, Astro, Cloudflare Pages, GA4/Firebase Analytics, Sentry, RevenueCat, Google Play publishing, GitHub Actions, Playwright E2E, i18n, structured SEO metadata, sitemaps, and Open Graph assets.
 
+## Open Source
+
+- **[OpenCode Selection](https://github.com/JonathanReisCom/opencode-selection)** — VS Code extension that sends selected code or file references to the OpenCode terminal with a single shortcut (`Cmd+L` / `Ctrl+L`). Available on the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=sunstoneapps.opencode-selection). If it helps you, ⭐ the repo.
+
 ## What I Care About
 
 - Leading technical decisions with clarity, context, and ownership.
